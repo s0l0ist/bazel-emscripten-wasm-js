@@ -14,7 +14,7 @@
     "rollup": "rollup -c"
   },
   "devDependencies": {
-    "rollup": "^2.58.0",
+    "rollup": "^3.29.5",
     "rollup-plugin-terser": "^7.0.2"
   }
 }
